@@ -1,0 +1,6 @@
+<html ng-app="EmmanuelAPP">
+<head>
+	<title>MYSTORE</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+</html>
