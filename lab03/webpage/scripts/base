@@ -1,0 +1,159 @@
+.full-screen img { width: 100%; }
+
+body.syllabus {
+  margin: 50px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: #222222;
+  background-color: #F8F8F8;
+  letter-spacing: 1px;
+}
+
+.syllabus table th, .syllabus table td { padding: 10px 5px;  }
+.syllabus table th {
+  vertical-align: top;
+}
+
+.syllabus h1 {
+  font-size: 30pt;
+}
+
+.syllabus h2 {
+  font-size: 25pt;
+}
+
+.syllabus h3 {
+  font-size: 20pt;
+}
+
+.tutorial {
+   background-color: #2ecc71;
+}
+
+.lab {
+  background-color: #F5D76E;
+}
+
+.exam {
+  background-color: #DC3023;
+}
+
+
+.lab-page h2, .tutorial-page h2 {
+  background-color: #bdc3c7;
+  padding: 10px;
+  margin-top: 30px !important;
+}
+
+.lab-page h3, .tutorial-page h3 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
+}
+
+.lab-page .answer, .tutorial-page .answer {
+  margin: 20px;
+  padding: 10px;
+  background-color: #C5EFF7;
+}
+
+
+.lab-page p, .lab-page h1, .lab-page h2, .lab-page h3, .lab-page h4,.lab-page pre, .lab-page img, .lab-page table {
+  margin: 20px;
+}
+
+.lab-page table th, .lab-page table td {
+  padding-right: 30px;
+}
+
+.tutorial-page p, .tutorial-page h1, .tutorial-page h2, .tutorial-page h3, .tutorial-page h4, .tutorial-page pre, .tutorial-page table {
+  margin: 20px;
+}
+
+.tutorial-page td {
+  padding: 5px 20px 5px 20px;
+}
+
+.try-it {
+  color: #c0392b;
+}
+
+.code {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #3f3f3f;
+  color: #dcdcdc;
+}
+
+
+.calendar td, .calendar th {
+  margin: 0px;
+  padding: 20px;
+  border: 1px solid black;
+  width: 100px;
+}
+
+.calendar {
+  margin-bottom: 30px;
+}
+
+.calendar td {
+  font-size: 12pt !important;
+  text-align: center !important;
+  padding: 0px ;
+  vertical-align: middle !important;
+}
+
+.lecture {
+   background-color: #3498db;
+}
+
+.lab {
+   background-color: #2ecc71;
+}
+
+.tutorial {
+  background-color: #f39c12;
+}
+
+.homework {
+  background-color: #9b59b6;
+}
+
+.holiday {
+  background-color: #bdc3c7;
+}
+
+.other-month {
+  color: #d6d6d6;
+  border: 0px solid white !important;
+}
+
+.teacher-eval {
+  border: 3px solid #f39c12 !important;
+
+}
+
+
+.table-homework {
+  border-collapse: collapse;
+  width: 1200px;
+}
+
+.table-homework tr th {
+  background-color: #2ecc71;
+}
+
+.table-homework tr th, .table-homework tr td {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+.important-list li {
+  line-height: 2em;
+}
